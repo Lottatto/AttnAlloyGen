@@ -11,6 +11,6 @@ Code and data for the paper "Ultra corrosion-resistant magnesium alloys by inter
 
 Set the file paths at the top of each script before running.
 
-Archived version: https://doi.org/10.5281/zenodo.XXXXXXX
+Archived version: https://doi.org/10.5281/zenodo.23910286
 
 License: MIT
