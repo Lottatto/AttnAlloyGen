@@ -1,0 +1,2 @@
+cutoff,n_train,n_test,n_doi_train,n_doi_test,r2,rmse,mae,tune_r2,best_params
+2025,134,29,42,8,0.8092433977097568,1.492081809830927,1.027086111542274,0.8092434406280518,"{'hidden_size': 112, 'dropout_rate': 0.12, 'learning_rate': 0.0006, 'seed': 119700}"
